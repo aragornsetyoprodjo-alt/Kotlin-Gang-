@@ -1,4 +1,4 @@
-NAAMA:Aragorn_KOTLIN.txt
+NAMA:Aragorn_KOTLIN.txt
 NIM:25106050041
 
 FIGMA Adalah Figma adalah salah satu tools atau aplikasi desain yang dapat 
